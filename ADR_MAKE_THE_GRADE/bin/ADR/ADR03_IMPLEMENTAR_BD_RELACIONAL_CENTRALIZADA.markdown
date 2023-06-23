@@ -16,15 +16,15 @@ La decisión de utilizar una base de datos relacional PostgresSQL centralizada t
 
 2. Implementar mecanismos eficientes de almacenamiento y recuperación de datos, teniendo en cuenta factores como el rendimiento de las consultas y partición de datos. 
 
-3. Recuperación y respaldo de datos: Establecer procedimientos regulares de respaldo y recuperación de datos para garantizar la disponibilidad de los datos y protegerlos contra posibles pérdidas de datos. Realizar de seguridad completas, copias de seguridad incrementales y almacenamiento externo. 
+3. Recuperación y respaldo de datos: Establecer procedimientos regulares de respaldo y recuperación de datos para garantizar la disponibilidad de los datos y protegerlos contra posibles pérdidas de datos. Realizar copias de seguridad completas, copias de seguridad incrementales y almacenamiento externo. 
 
-4. Seguridad: PostgresSql tiene medidas de seguridad robustas lo que nos permiti cumplir con los requisitos de seguridad.  
+4. Seguridad: PostgresSql tiene medidas de seguridad robustas que nos permitien cumplir con los requisitos de seguridad.  
 
-5. Escalabilidad: PostgresSql almacena grandes cantiades de datos con facilidad, permite la fragmentación de la base de datos. 
+5. Escalabilidad: PostgresSql almacena grandes cantidades de datos con facilidad, permite tambien la fragmentación de la base de datos. 
 
-6. Integración: Garantiza una integración perfecta entre la capa de aplicación y la base de datos centralizada, implementando las API adecuadas o las capas de acceso a datos para facilitar la manipulación y 	recuperación de datos. 
+6. Integración: Garantiza una integración perfecta entre la capa de aplicación y la base de datos, implementando las APIs adecuadas o las capas de acceso a datos para facilitar la manipulación y recuperación de datos. 
 
-7. Mantenimiento: Establecer procedimientos de mantenimiento de la base de datos, optimizacion de los índices. 
+7. Mantenibilidad: Establecer procedimientos de mantenimiento de la base de datos, optimización de los índices. 
 
  
 

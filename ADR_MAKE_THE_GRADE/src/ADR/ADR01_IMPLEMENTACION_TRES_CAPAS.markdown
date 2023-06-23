@@ -1,26 +1,24 @@
 # Titulo
-Arquitectura Web de tres niveles para un sistema de evaluación estandarizado escalable.
+Arquitectura Web de tres capas para un sistema de evaluación estandarizado escalable.
 
 # Estado
 Propuesto
 
 # Contexto 
-Se tiene la necesidad de diseñar un sistema de evaluación estandarizado escalable que pueda manejar una gran cantidad de usuarios y garantizar un rendimiento eficiente. El sistema requiere una arquitectura de tres niveles basada en la web para lograr la escalabilidad. Entre las consideraciones que se tomaron en cuenta están: 
+Se tiene la necesidad de diseñar un sistema de evaluación estandarizado escalable que pueda manejar una gran cantidad de usuarios y garantizar un rendimiento eficiente. El sistema requiere una arquitectura web. Entre las consideraciones que se tomarón en cuenta están: 
 
-1. Disponibilidad: debe adaptarse a un gran volumen de usuarios y manejar actividades simultáneas, optimizando el rendimiento para ofrecer una experiencia de usuario fluida y receptiva.
+1. Disponibilidad: El sistema debe adaptarse a un gran volumen de usuarios y manejar actividades simultáneas, optimizando el rendimiento para ofrecer una experiencia de usuario fluida y receptiva.
 
-2. Evaluación estandarizada: debe ser diseñado para admitir pruebas de evaluación estandarizadas. 
+2. Escalabilidad: Implementar la capa de presentación, aplicación y datos para separar las necesidades y facilitar la escalabilidad. 
 
-3. Arquitectura de tres capas: debe comprender distintas capas de presentación, aplicación y datos para separar las necesidades y facilitar la escalabilidad. 
+4. Accesibilidad: El sistema estará basado en la web para garantizar la accesibilidad entre dispositivos y plataformas. 
 
-4. Basado en la web: el sistema estará basado en la web para garantizar la accesibilidad entre dispositivos y plataformas. 
-
-5. Modularidad: la arquitectura de tres niveles permite el desarrollo y mantenimiento independientes de cada capa, lo que facilita la modularidad y la reutilización del código. 
+5. Modularidad: la arquitectura de tres capas nos permite el desarrollo y mantenimiento independientes de cada capa, lo que facilita la modularidad y la reutilización del código. 
 
 6. Seguridad: debe incorporar medidas de seguridad adecuadas para proteger los datos confidenciales de los usuarios. 
 
 # Desición
-Adoptar una arquitectura basada en web de tres niveles para el sistema escalable de evaluación estandarizada. 
+Adoptar una arquitectura basada en web de tres capas para el sistema escalable de evaluación estandarizada. 
 
 # Consecuencias
 La decisión de adoptar una arquitectura basada en web de tres niveles para el sistema tiene las siguientes implicaciones: 

@@ -14,7 +14,7 @@ La decisión de utilizar Google Cloud Platform como plataforma de alojamiento de
 
 1. Diseñar la aplicacion para que sea compatible con los servicios que brinda Google Cloud Platform.
 
-2. Configuración la infraestructura, destinar los recursos de Google Cloud Platform necesarios, como máquinas virtuales, dockers para alojar y ejecutar la aplicación.
+2. Configuración de la infraestructura, destinar los recursos de Google Cloud Platform necesarios, como máquinas virtuales, dockers para alojar y ejecutar la aplicación.
 
 3. Implementación de aplicaciones configurando los componentes de Google Cloud Platform, aprovechando las herramientas y los servicios de implementación adecuados como app Engine o Cloud Functions.
 
