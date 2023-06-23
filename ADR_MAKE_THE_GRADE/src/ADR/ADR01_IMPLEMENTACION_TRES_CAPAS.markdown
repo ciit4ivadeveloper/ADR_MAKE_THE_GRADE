@@ -18,7 +18,7 @@ Se tiene la necesidad de diseñar un sistema de evaluación estandarizado escala
 6. Seguridad: debe incorporar medidas de seguridad adecuadas para proteger los datos confidenciales de los usuarios. 
 
 # Desición
-Adoptar una arquitectura basada en web de tres capas para el sistema escalable de evaluación estandarizada. 
+Se propone implementar una arquitectura basada en web de tres capas para el sistema escalable de evaluación estandarizada. 
 
 # Consecuencias
 La decisión de adoptar una arquitectura basada en web de tres niveles para el sistema tiene las siguientes implicaciones: 
