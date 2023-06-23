@@ -25,7 +25,7 @@ La decisión de adoptar una arquitectura basada en web de tres niveles para el s
 
 1. Capa de FrontEnd: Desarrollar una interfaz web (React) que sea fácil de usar, que permita a cada uno de los usuarios interactuar con el sistema, implementando mecanismos de autentificación seguros para controlar los accesos a la información confidencial de los usuarios. 
 
-2. Capa de BackEnd: Desarrollar la capa lógica de negocio (SprintBoot) que será la encargada del procesamiento de solicitudes de prueba, la consolidación de resultados, la generación de informes y la calificación manual.  Garantizando la protección de la información por medio de autentificación SSO (KeyCloack) que firme los tokens de cada servicio antes de darnos una respuesta. 
+2. Capa de BackEnd: Desarrollar la capa lógica de negocio (SprintBoot) para desplegarla sobre un servidor de aplicaciones Wildfly, Esta capa será la encargada del procesamiento de solicitudes de prueba, la consolidación de resultados, la generación de informes y la calificación manual.  Garantizando la protección de la información por medio de autentificación SSO (KeyCloack) que firme los tokens de cada servicio antes de darnos una respuesta
 
 3. Capa de Base Datos: Elaborar un esquema de base de datos (PostgreSQL) escalable y eficiente para almacenar información de los estudiantes, datos de pruebas y resultados.  Implementando adecuadas formas de indexación y partición para respaldar la recuperación de datos rápidos y confiables. 
 
